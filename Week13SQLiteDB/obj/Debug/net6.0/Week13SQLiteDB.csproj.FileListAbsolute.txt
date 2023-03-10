@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net6.0\Week13SQLiteDB.exe
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net6.0\Week13SQLiteDB.deps.json
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net6.0\Week13SQLiteDB.runtimeconfig.json
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net6.0\Week13SQLiteDB.dll
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net6.0\Week13SQLiteDB.pdb
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\Week13SQLiteDB.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\Week13SQLiteDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\Week13SQLiteDB.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\Week13SQLiteDB.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\Week13SQLiteDB.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\Week13SQLiteDB.dll
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\refint\Week13SQLiteDB.dll
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\Week13SQLiteDB.pdb
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\Week13SQLiteDB.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net6.0\ref\Week13SQLiteDB.dll
